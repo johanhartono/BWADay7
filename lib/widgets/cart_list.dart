@@ -87,7 +87,7 @@ class CardList extends StatelessWidget {
                       ),
                     ),
                     Padding(
-                      padding: const EdgeInsets.only(top: 80.0, left: 56),
+                      padding: const EdgeInsets.only(top: 80.0, left: 86),
                       child: Text(amount,
                           style: GoogleFonts.poppins(
                             color: const Color(0xff191919),
