@@ -70,6 +70,11 @@ flutter:
      - assets/pricing_illustration.png
      - assets/orange_check.png
      - assets/button_arrow.png
+     - assets/cover_random.png
+     - assets/date_one.png
+     - assets/date_two.png
+     - assets/date_three.png
+     - assets/date_four.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 

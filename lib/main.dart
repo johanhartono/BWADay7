@@ -1,4 +1,4 @@
-import 'package:bwadesigntocodeday7/first_random.dart';
+import 'package:bwadesigntocodeday7/second_random.dart';
 import 'package:flutter/material.dart';
 
 
@@ -15,7 +15,7 @@ class SevenDays extends StatelessWidget {
     return const MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Seven Days Flutter Demo',
-        home: FirstRandom(
+        home: SecondRandom(
        
         )
         );
